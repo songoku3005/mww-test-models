@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "Hey Mario",
+  "author": "Songoku",
+  "website": "https://github.com/songoku3005/mww-test-models.git",
+  "model": "./hey_mario.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
