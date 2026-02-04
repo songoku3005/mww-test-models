@@ -3,7 +3,7 @@
   "wake_word": "Hey Mario",
   "author": "Songoku",
   "website": "https://github.com/songoku3005/mww-test-models.git",
-  "model": "./hey_mario.tflite",
+  "model": "hey_mario.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
